@@ -7,8 +7,6 @@
 
 > 📦 2.5 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2024
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 2 Public Repositories 
@@ -70,5 +68,5 @@ PHP                      1 repo              ███░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/PastingJohn/PastingJohn/main/assets/bar_graph.png)
 
 
- Last Updated on 05/08/2024 11:43:48 UTC
+ Last Updated on 05/08/2024 12:22:16 UTC
 <!--END_SECTION:waka-->
